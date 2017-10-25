@@ -1,0 +1,23 @@
+[
+  {
+    "type": "BUY",
+    "timestamp": 1,
+    "price": 2.0,
+    "party": "Alex",
+    "partyType": "MARKET_MAKER"
+  },
+  {
+    "type": "SELL",
+    "timestamp": 1,
+    "price": 2.0,
+    "party": "Valentin",
+    "partyType": "COMMON"
+  },
+  {
+    "type": "BUY",
+    "timestamp": 1,
+    "price": 2.0,
+    "party": "Andrei",
+    "partyType": "COMMON"
+  }
+]
